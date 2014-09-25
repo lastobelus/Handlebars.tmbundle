@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{#each ${1:thing} in content ${2:itemController="${3:$1}"}}}
+	{{#with $1}}
+		$10
+	{{/with}}
+{{/each}}$0
+</string>
+	<key>name</key>
+	<string>each-&gt;with</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>eawi</string>
+	<key>uuid</key>
+	<string>464D6579-3122-461F-8C49-D93BCF804B75</string>
+</dict>
+</plist>

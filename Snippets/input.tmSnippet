@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{input ${1:id="${2:theinput}" }${3:class="${4:text-input}" }${5:placeholder="${6:Enter text}"} value=$7}}</string>
+	<key>name</key>
+	<string>input</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>inp</string>
+	<key>uuid</key>
+	<string>750458E1-1AD8-4013-8639-20DC2479B70A</string>
+</dict>
+</plist>

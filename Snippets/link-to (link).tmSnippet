@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{#link-to '${1:route.subroute}' ${2:objects }${3:classNameBindings="${4:selected:is-active }${5::btn}"} }}
+  ${6:Link Title}
+{{/link-to}}</string>
+	<key>name</key>
+	<string>link-to (link)</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>E837796D-C59C-4E81-8ADB-7224111E3D42</string>
+</dict>
+</plist>

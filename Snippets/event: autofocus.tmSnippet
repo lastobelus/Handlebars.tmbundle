@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>autofocus="autofocus"</string>
+	<key>name</key>
+	<string>event: autofocus</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>vau</string>
+	<key>uuid</key>
+	<string>8F0C6D7B-CF51-40E8-B5B3-412A3FE80ED5</string>
+</dict>
+</plist>
