@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>on="${1|doubleClick,keyUp,keyPress,focusOut,focusIn,mouseEnter,mouseLeave|}"</string>
+	<key>name</key>
+	<string>action on</string>
+	<key>scope</key>
+	<string>text.html.handlebars meta.tag, text.html.handlebars meta.function</string>
+	<key>tabTrigger</key>
+	<string>on</string>
+	<key>uuid</key>
+	<string>6E675467-E129-4FB0-BE2D-F419B6637CED</string>
+</dict>
+</plist>
