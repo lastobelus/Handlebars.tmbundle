@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>action="${1|open,close,select,deselect,more|}"$0</string>
+	<key>name</key>
+	<string>action (a) in function</string>
+	<key>scope</key>
+	<string>text.html.handlebars meta.function</string>
+	<key>tabTrigger</key>
+	<string>a</string>
+	<key>uuid</key>
+	<string>6DD125FA-52DF-40D1-BA65-105EDFBB31B7</string>
+</dict>
+</plist>
