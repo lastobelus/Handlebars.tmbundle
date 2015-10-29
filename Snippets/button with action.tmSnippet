@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;button {{action '${1:login}'}}&gt;${2:Login&lt;/button&gt;$0</string>
+	<key>name</key>
+	<string>button with action</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>btna</string>
+	<key>uuid</key>
+	<string>66C7340C-D76D-458E-B405-52E6288809B9</string>
+</dict>
+</plist>
